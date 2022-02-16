@@ -1,11 +1,18 @@
-## Hi I'm Renjith RP <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+[![MasterHead](https://static.vecteezy.com/system/resources/previews/000/271/024/original/vector-web-development-web-banner.jpg)
+<h1 align="center">Hi 👨‍💻, I'm Renjith RP</h1>
+<h3 align="center">A passionate Web developer and tech enthusiastic .</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif">
 
-a passionate web developer and a tech enthusiastic from india. <br>
-graduated with a degree in Bachelor of Computer Science at [University Institute of Technology,Pirappancode]("#").<br>
+- ⚡ **MCA Student at Kerala Technological University**
 
+- 🎓 **I’m Graduate in Bsc CS from Kerala University.**
 
-🔗 &nbsp;**Connect with me**
+- 📫 How to reach me **renjithrp19@gmail.com**
 
-[![Twitter Badge](https://img.shields.io/badge/-@renjithrp-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RenjithRP)](https://twitter.com/RenjithRP) [![Linkedin Badge](https://img.shields.io/badge/-RenjithRP-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renjithrp) [![Mail Badge](https://img.shields.io/badge/-@jny_depp_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/jny_depp_) [![Mail Badge](https://img.shields.io/badge/-renjithrp-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:renjithrp19@gmail.com)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/renjith r p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renjith r p" height="30" width="40" /></a>
+<a href="https://instagram.com/jny_depp_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jny_depp_" height="30" width="40" /></a>
+</p>
 
-<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renjith20&show_icons=true&locale=en" alt="renjith20" /></p>
