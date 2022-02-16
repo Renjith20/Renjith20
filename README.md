@@ -1,4 +1,4 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/000/271/024/original/vector-web-development-web-banner.jpg)
+
 <h1 align="center">Hi 👨‍💻, I'm Renjith RP</h1>
 <h3 align="center">A passionate Web developer and tech enthusiastic .</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif">
