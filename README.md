@@ -11,7 +11,7 @@
 
 - 🎓 **I’m Graduate in Bsc CS from Kerala University.**
 
-- 📫 How to reach me **renjithrp19@gmail.com**
+- 📫 How to reach me **renjithrp03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
