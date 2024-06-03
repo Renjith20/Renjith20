@@ -16,7 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/renjithrp03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renjith r p" height="30" width="40" /></a>
-<a href="https://instagram.com/jny_depp_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jny_depp_" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renjith20&show_icons=true&locale=en" alt="renjith20" /></p>
