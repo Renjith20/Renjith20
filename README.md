@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a><br> </p>
 
-- ⚡ **MCA Student at Kerala Technological University**
+- ⚡ **MCA Graguate from Kerala Technological University**
 
 - 🎓 **I’m Graduate in Bsc CS from Kerala University.**
 
